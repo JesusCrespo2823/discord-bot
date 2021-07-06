@@ -1,0 +1,15 @@
+{
+ "scripts": {
+  "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
+ },
+ "dependencies": {
+  "discord.js": "^12.5.3",
+  "dotenv": "^10.0.0",
+  "mongoose": "^5.13.2",
+  "pretty-ms": "^7.0.1"
+ },
+ "devDependencies": {
+  "nodemon": "^2.0.9"
+ }
+}
